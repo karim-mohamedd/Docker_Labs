@@ -1,6 +1,6 @@
 ## this is the Architecture for writing a Docker file
 ---
-'''# Use a base image
+'''Use a base image
 FROM <base-image>
 
 # Set metadata as described above
