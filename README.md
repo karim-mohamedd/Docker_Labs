@@ -23,7 +23,7 @@ Before you start, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/docker-practice.git
+   git clone https://github.com/ykarim-mohamedd/docker-practice.git
    cd docker-practice
    ```
 
