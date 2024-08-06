@@ -2,7 +2,7 @@
 FROM python:3.9-slim
 
 # Set metadata
-LABEL maintainer="your-email@example.com"
+LABEL maintainer="karimelwaraky50@gmail.com"
 
 # Set environment variables
 ENV PYTHONUNBUFFERED=1
