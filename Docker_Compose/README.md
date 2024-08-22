@@ -133,5 +133,4 @@ docker-compose logs app
 - [NGINX Documentation](https://nginx.org/en/docs/)
 
 
-
-Feel free to adjust the content according to your specific project needs, including service definitions, configuration details, and any additional setup steps relevant to your application.
+---
